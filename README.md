@@ -60,5 +60,4 @@ This project presents an integrated system combining Unmanned Aerial Vehicles (U
 
 
 
-```bash
-pip install -r requirements.txt
+
